@@ -1,1 +1,1 @@
-# LASUDevs-Workshop-1.0
+# LASUDevs Workshop 1.0
