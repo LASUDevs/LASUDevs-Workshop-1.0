@@ -1,0 +1,106 @@
+.body, html {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.bg-dark {
+    background-color: #009AD2 !important;
+}
+
+.custom-searchbar {
+    background-color: transparent !important;
+    border: none;
+    border-bottom: 1px solid #fff;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.custom-searchbar::placeholder {
+    color: #fff;
+}
+.bg-image {
+    background-image: url('https://www.onlinecollege.org/wp-content/themes/onlinecollegeorg/assets/img/min/photos/degree_pages/education.jpg'); /* Repeat with main image*/
+    height: 410px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.small {
+    height: 200px !important;
+}
+
+.small-margin {
+    margin-top: -200px !important;
+}
+.m-card { 
+    height: 400px;
+    position: relative;
+    margin-top: -400px;
+    background-image: linear-gradient(transparent, #000);
+    opacity: 0.6;
+}
+
+.content {
+    margin-top: 30px;
+}
+
+.small-caption {
+    font-size: 16px !important; 
+}
+
+
+.m-caption {
+    margin-top: -150px;
+    color: #fff;
+    position: relative;
+    padding: 20px;
+    font-weight: 400;
+}
+
+.m-tag {
+    padding: 5px;
+    margin: 10px;
+    font-size: 12px;
+
+}
+
+.small-tag {
+    font-size: 8px;
+}
+
+#aside_two {
+    padding-top: 20px;
+}
+
+.posts {
+    position: relative;
+    margin-top: 40px;
+}
+
+.card {
+    border: none !important;
+    border-radius: 0px !important;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.card img {
+    border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+}
+
+.card-title {
+    font-size: 12px;
+}
+.card-text {
+    font-size: 10px;
+}
+.sm-tag {
+    margin: 5px !important;
+    padding: 5px;
+    color: #fff;
+    font-size: 7px !important;
+}
+.card-body {
+    padding: 10px;
+}
+.btn {
+    padding: 5px;
+}
